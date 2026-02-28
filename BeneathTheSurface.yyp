@@ -9,9 +9,7 @@
     "name":"Default",
   },
   "defaultScriptType":0,
-  "Folders":[
-    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
-  ],
+  "Folders":[],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -22,6 +20,7 @@
   "name":"BeneathTheSurface",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"sFareEvader","path":"sprites/sFareEvader/sFareEvader.yy",},},
@@ -29,6 +28,8 @@
     {"id":{"name":"sPeople","path":"sprites/sPeople/sPeople.yy",},},
     {"id":{"name":"sPlatform","path":"sprites/sPlatform/sPlatform.yy",},},
     {"id":{"name":"sTrain","path":"sprites/sTrain/sTrain.yy",},},
+=======
+>>>>>>> 92346a72f87df0735293d79e81b5857fa962732d
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
