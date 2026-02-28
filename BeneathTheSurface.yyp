@@ -9,9 +9,7 @@
     "name":"Default",
   },
   "defaultScriptType":0,
-  "Folders":[
-    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
-  ],
+  "Folders":[],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -22,7 +20,6 @@
   "name":"BeneathTheSurface",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"sTrain","path":"sprites/sTrain/sTrain.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
