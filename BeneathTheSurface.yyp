@@ -22,6 +22,9 @@
   "name":"BeneathTheSurface",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sFarEvader","path":"sprites/sFarEvader/sFarEvader.yy",},},
+    {"id":{"name":"sPeople","path":"sprites/sPeople/sPeople.yy",},},
+    {"id":{"name":"sPlatform","path":"sprites/sPlatform/sPlatform.yy",},},
     {"id":{"name":"sTrain","path":"sprites/sTrain/sTrain.yy",},},
   ],
   "resourceType":"GMProject",
