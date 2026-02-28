@@ -22,7 +22,10 @@
   "name":"BeneathTheSurface",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"sFarEvader","path":"sprites/sFarEvader/sFarEvader.yy",},},
+    {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
+    {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
+    {"id":{"name":"sFareEvader","path":"sprites/sFareEvader/sFareEvader.yy",},},
+    {"id":{"name":"sFrontCarriage","path":"sprites/sFrontCarriage/sFrontCarriage.yy",},},
     {"id":{"name":"sPeople","path":"sprites/sPeople/sPeople.yy",},},
     {"id":{"name":"sPlatform","path":"sprites/sPlatform/sPlatform.yy",},},
     {"id":{"name":"sTrain","path":"sprites/sTrain/sTrain.yy",},},
